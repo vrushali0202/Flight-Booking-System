@@ -1,0 +1,10 @@
+
+Å
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.8∏ù∂à’1b 1f7426544f804a9c7ef9ca65a1d1e411h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+y
+java:S1128">Remove this unused import 'com.flightBooking.entity.UserData'.8∏ù∂à’1b 9c3760262d6a379ab6b47524ffc468f7h
+t
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.b cc3dce75fca6feb9a70ba582a68367aeh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b c3e6f0e6c277100d4c2a87e8e46499eah

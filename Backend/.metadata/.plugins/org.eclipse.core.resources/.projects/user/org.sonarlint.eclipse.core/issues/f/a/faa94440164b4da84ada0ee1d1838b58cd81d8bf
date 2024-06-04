@@ -1,0 +1,11 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+b
+java:S11251"'Remove the unnecessary boolean literal.8“ì‡…’1b 68934a3e9455fa72420237eb05902327h
+|
+java:S1128"ARemove this unused import 'com.user.exception.UserDataException'.8“ì‡…’1b e32406549745a88a76e959728cf5510bh
+v	java:S125 "<This block of commented-out lines of code should be removed.8ò°√…’1b dd82614cde8943aaf62eb3e83f0928a8h
+v	java:S125*"<This block of commented-out lines of code should be removed.8“ì‡…’1b 11920f805d1040b3919b00e03c8a5f72h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

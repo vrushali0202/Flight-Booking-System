@@ -1,0 +1,16 @@
+
+y
+java:S1128">Remove this unused import 'com.flightBooking.entity.UserData'.8¶ÙÈĞÔ1b 9c3760262d6a379ab6b47524ffc468f7h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+e
+java:S2140F"*Use "java.util.Random.nextLong()" instead.8Ó¿“«Ô1b 3de8353f9a30b5d10e2f7c496ecab616h
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b b61abfcb0312d92b21a484a89f4f8eddh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+d
+java:S1481^")Remove this unused "data" local variable.8ÑéÎÔ1b 8d777f385d3dfec8815d20f7496026dch
+y
+java:S1155n">Use isEmpty() to check whether the collection is empty or not.8•©öÎÔ1b 4039eefad53acbe2ffe2f59eabe9a1f5h
+s
+java:S1854^"8Remove this useless assignment to local variable "data".8ÑéÎÔ1b 22589ee51287fb23fda6fbe548db53c7h

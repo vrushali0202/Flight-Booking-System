@@ -1,0 +1,9 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b afe39fadeea63ed8cd66548953d618ech
+v	java:S125"<This block of commented-out lines of code should be removed.8ÚÃ∆Ç’1b 696cfcaecbcc79ce3403fc13560902abh
+h
+java:S1128"-Remove this unused import 'java.util.Arrays'.8ÚÃ∆Ç’1b 54e9e610d6bdce198c93f75733e99130h
+m
+java:S1128"2Remove this unused import 'java.util.Collections'.8ÚÃ∆Ç’1b 37cf71c299500e7e435e15dfbe1317f0h
+å
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.8ÚÃ∆Ç’1b ff106b593378e14441730e34adf95249h

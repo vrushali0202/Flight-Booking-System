@@ -1,0 +1,4 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b afe39fadeea63ed8cd66548953d618ech
+Ñ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.CrossOrigin'.b f7cbae77bb4e7d346a6c2032f1e05944h

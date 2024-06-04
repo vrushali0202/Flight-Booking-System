@@ -1,0 +1,11 @@
+
+t
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.b e325b16aa10bc2b065742595902073cbh
+’
+java:S1192'"WDefine a constant instead of duplicating this literal "flight id is not found" 3 times.8±ùÁòÐ1b d67181157778b9ff184d71b3207993c6h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+t
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.b e325b16aa10bc2b065742595902073cbh
+|
+java:S1128"ARemove this unused import 'com.flight.repository.FlightDataRepo'.8ûÌ›ƒÕ1b 0b5f20deddb1ce42c39959b5543f8774h

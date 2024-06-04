@@ -1,0 +1,7 @@
+
+r
+java:S1128">Remove this unused import 'com.flightBooking.entity.UserData'.b 9c3760262d6a379ab6b47524ffc468f7h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b b9854cc3181f33dd1b3efc99e2f0535dh
+t
+java:S1128
+"@Remove this unused import 'com.flightBooking.entity.FlightData'.b 47f12d776ccb15c91235ad1de626bd5ah
